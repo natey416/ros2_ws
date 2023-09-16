@@ -1,0 +1,6 @@
+source;share/mavric/hook/pythonpath.ps1
+source;share/mavric/hook/pythonpath.dsv
+source;share/mavric/hook/pythonpath.sh
+source;share/mavric/hook/ament_prefix_path.ps1
+source;share/mavric/hook/ament_prefix_path.dsv
+source;share/mavric/hook/ament_prefix_path.sh

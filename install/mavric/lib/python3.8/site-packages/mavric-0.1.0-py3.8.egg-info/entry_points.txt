@@ -1,0 +1,3 @@
+[console_scripts]
+imu = py_pybsub.BNO055_IMU:main
+

@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/mavric/mavric.egg-info/PKG-INFO
+../../build/mavric/mavric.egg-info/SOURCES.txt
+../../build/mavric/mavric.egg-info/dependency_links.txt
+../../build/mavric/mavric.egg-info/entry_points.txt
+../../build/mavric/mavric.egg-info/requires.txt
+../../build/mavric/mavric.egg-info/top_level.txt
+../../build/mavric/mavric.egg-info/zip-safe
+mavric/BNO055_IMU.py
+mavric/__init__.py
+resource/mavric
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
